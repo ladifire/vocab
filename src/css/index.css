@@ -8,6 +8,10 @@ body,
     height: 100%;
 }
 
+#root {
+    background-image: radial-gradient(976px at 51.2% 51%, rgb(11, 27, 103) 0%, rgb(16, 66, 157) 0%, rgb(11, 27, 103) 17.3%, rgb(11, 27, 103) 58.8%, rgb(11, 27, 103) 71.4%, rgb(16, 66, 157) 100.2%, rgb(187, 187, 187) 100.2%);
+}
+
 audio::-webkit-media-controls-panel {
     background-color: white;
 }
